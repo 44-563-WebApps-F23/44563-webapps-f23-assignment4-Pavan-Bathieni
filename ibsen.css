@@ -12,6 +12,9 @@
 .name {
     color:black
 }
+.name:hover {
+    text-shadow: 2px 4px 4px;
+}
 .direction:hover {
     background-color:lightpink;
     color:green;
