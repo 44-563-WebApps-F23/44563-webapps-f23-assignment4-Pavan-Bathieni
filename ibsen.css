@@ -37,3 +37,18 @@
 .krogstad {
     color:rgb(18, 126, 234);
 }
+table {
+    border-collapse: collapse;
+}
+th {
+    color:seagreen
+}
+th,td {
+    border:solid;
+    border-color: black;
+    padding:20px 100px;
+    text-align:left;
+}
+tr:nth-child(even) {
+    background-color:lightgrey;
+  }
