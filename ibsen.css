@@ -1,0 +1,39 @@
+.speech {
+     font-family: "Times New Roman", Times, serif;
+     font-size:14px;
+     color:black;
+}
+.direction {
+    font-family: "Arial", Helvetica,serif;
+    font-size:18px;
+    color:black;
+    background-color:lightgrey;
+}
+.name {
+    color:black
+}
+.direction:hover {
+    background-color:lightpink;
+    color:green;
+}
+.helmer {
+    color:rgb(23, 215, 23);  
+}
+.nora {
+    color:rgb(18, 139, 214);
+}
+.maid {
+    color:rgb(216, 15, 46)
+}
+.linde {
+    color:rgb(216, 216, 20);
+}
+.rank {
+    color:rgb(214, 73, 17);
+}
+.nurse {
+    color:rgb(13, 231, 220);
+}
+.krogstad {
+    color:rgb(18, 126, 234);
+}
